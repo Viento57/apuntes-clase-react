@@ -9,4 +9,4 @@ Apuntes de React para repasar cuando se me olvida, para mejor comprensión.
 2. Proveer el contexto = Crear el Provider, para proveer el contexto
 3. Consumir el contexto
 
-Un Provider tambien no deja de ser un componente de React, lo que va renderizar lo que envuelve va ser el children
+Un Provider tambien no deja de ser un componente de React, lo que va renderizar es lo que envuelve osea el children
